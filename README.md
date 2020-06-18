@@ -31,7 +31,7 @@ Data stored on google drive can easily be accessed from within Colab to be used 
 
 ## How to run a 'code' cell
 - Select the cell (by clicking on it).
-- Press the play button (or brackets) located top left of a code cell runs the selected code cell (see below).
+- Press the play button (or brackets) located top left corner of the selected code cell to run it.
 
 ![](https://github.com/baigouy/notebooks/raw/master/images/running_a_cell20002.jpg)
 ![](https://github.com/baigouy/notebooks/raw/master/images/running_a_cell20000.jpg)
@@ -39,7 +39,7 @@ Data stored on google drive can easily be accessed from within Colab to be used 
 
 ![](https://github.com/baigouy/notebooks/raw/master/images/running_a_cell20001.jpg)
 
-## Selecting a GPU to run or train a deep learning network
+## Select a GPU runtime
 Deep learning is computation intensive and is better achieved using GPU (graphic cards) than regular computer processors. To get a Colab virtual machine that uses a GPU:
 - Press the 'Runtime' menu entry.
 
