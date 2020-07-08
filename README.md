@@ -94,11 +94,12 @@ __PS: using Colab pro (commercial version) alleviates time limitation and idle d
 
 ## Building/Training a model
 
-[Please follow the Link](https://github.com/baigouy/notebooks/raw/master/Epyseg_build_and_train.ipynb)
+[Please follow the Link](https://github.com/baigouy/notebooks/blob/master/Epyseg_build_and_train.ipynb)
 
-## using a pretrained model for segmenting epithelia
+## Using a pretrained model for segmenting epithelia
 
-[Please follow the Link](https://github.com/baigouy/notebooks/raw/master/Epyseg_segment.ipynb)
+[Please follow the Link](https://github.com/baigouy/notebooks/blob/master/Epyseg_segment.ipynb)
+
 
 ### link to a github or Colab page
 
