@@ -29,6 +29,27 @@ Data stored on google drive can easily be accessed from within Colab to be used 
 ![](https://github.com/baigouy/notebooks/raw/master/images/demo_mounting_drive0004.jpg)
 ![](https://github.com/baigouy/notebooks/raw/master/images/demo_mounting_drive0007.jpg)
 
+## How to mount Google drive in Colab (alternative method)
+
+- Browse the link provided by Google (a new page appears)
+
+![](https://github.com/baigouy/notebooks/raw/master/images/drive_mounting20005.jpg)
+![](https://github.com/baigouy/notebooks/raw/master/images/drive_mounting20004.jpg)
+- Scroll down and click 'Authorize'
+
+![](https://github.com/baigouy/notebooks/raw/master/images/drive_mounting20003.jpg)
+- Click the 'clipboard' icon to copy the code to the clipboard
+
+![](https://github.com/baigouy/notebooks/raw/master/images/drive_mounting20000.jpg)
+- Get back to the colab page then paste (Ctrl/Cmd + V) the code in the 'authorization' field. Finally press 'Enter' 
+
+![](https://github.com/baigouy/notebooks/raw/master/images/drive_mounting20001.jpg)
+
+- The drive is now successfully mounted
+
+![](https://github.com/baigouy/notebooks/raw/master/images/drive_mounting20002.jpg)
+
+
 ## How to run a 'code' cell
 - Select the cell (by clicking on it).
 - Press the play button (or brackets) located top left corner of the selected code cell to run it.
@@ -71,11 +92,13 @@ Deep learning is computation intensive and is better achieved using GPU (graphic
 
 __PS: using Colab pro (commercial version) alleviates time limitation and idle disconnect timeout__
 
-## training a model
+## Building/Training a model
 
-### link to a github or Colab page
+[Please follow the Link](https://github.com/baigouy/notebooks/raw/master/Epyseg_build_and_train.ipynb)
 
 ## using a pretrained model for segmenting epithelia
+
+[Please follow the Link](https://github.com/baigouy/notebooks/raw/master/Epyseg_segment.ipynb)
 
 ### link to a github or Colab page
 
