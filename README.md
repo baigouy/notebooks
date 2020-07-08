@@ -99,12 +99,3 @@ __PS: using Colab pro (commercial version) alleviates time limitation and idle d
 ## Using a pretrained model for segmenting epithelia
 
 [Please follow the Link](https://github.com/baigouy/notebooks/blob/master/Epyseg_segment.ipynb)
-
-
-### link to a github or Colab page
-
-
-
-
- 
-
