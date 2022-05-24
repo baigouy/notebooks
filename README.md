@@ -1,5 +1,5 @@
 # Getting started
-Please find below some minimal knowledge to use the Colab jupyter notebook efficiently.
+Please find below some minimal knowledge to use Google Colab (jupyter notebook) efficiently.
 
 Notebooks contain cells. These cells can be of two type:
 - 'Text' cells that contain information to guide users.
